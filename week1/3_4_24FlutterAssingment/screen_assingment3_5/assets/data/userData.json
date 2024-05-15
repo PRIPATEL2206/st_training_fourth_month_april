@@ -1,0 +1,37 @@
+[
+    {
+        "photoUrl": "assets/user1.jpg",
+        "name": "Laurent",
+        "time": "5:40",
+        "msg": "How about meeting tommorw?"
+    },
+    {
+        "photoUrl": "assets/user2.jpg",
+        "name": "Tracy 10:40",
+        "msg": "I love that tower!"
+    },
+    {
+        "photoUrl": "assets/user3.jpg",
+        "name": "Claire",
+        "time": "5:40",
+        "msg": "It totally make sense to get some?"
+    },
+    {
+        "photoUrl": "assets/user4.jpg",
+        "name": "Joe",
+        "time": "5:40",
+        "msg": "Could you ask for it please?"
+    },
+    {
+        "photoUrl": "assets/user5.jpg",
+        "name": "Mark",
+        "time": "5:40",
+        "msg": "How are you?"
+    },
+    {
+        "photoUrl": "assets/user6.jpg",
+        "name": "Williams",
+        "time": "5:40",
+        "msg": "Yesterday i was not able to do that task?"
+    }
+]
